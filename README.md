@@ -7,3 +7,5 @@
  <a align="center" href="https://discord.com/users/586566689781448725" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a align="center" href="https://www.github.com/Umut0x" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a align="center" href="https://open.spotify.com/user/p6xgsd2w0n9387fj50bqr74w3?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pyf4j7lcb23n6be6g2pu4ghoom&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)

@@ -17,5 +17,7 @@
 </h1>
 
 <div align="center">
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=p6xgsd2w0n9387fj50bqr74w3&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=p6xgsd2w0n9387fj50bqr74w3&cover_image=true&theme=novatorem&show_offline=true&background_color=b34747&interchange=false&bar_color=26c926&bar_color_cover=true)]]
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p6xgsd2w0n9387fj50bqr74w3&cover_image=true&theme=novatorem&show_offline=true&background_color=b34747&interchange=false&bar_color=26c926&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=p6xgsd2w0n9387fj50bqr74w3&redirect=true)
+
 </div>

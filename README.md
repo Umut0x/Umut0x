@@ -8,6 +8,8 @@
   <a align="center" href="https://www.github.com/Umut0x" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a align="center" href="https://open.spotify.com/user/p6xgsd2w0n9387fj50bqr74w3?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
+</h1>
+
 <div align="center">
   <img src="https://github.com/VezirOni/vezironi/blob/main/snake.svg" alt="Snake animation"/>
 </div>

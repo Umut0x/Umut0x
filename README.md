@@ -1,4 +1,4 @@
-<h1 align="center"> </🌼Beş>  
+<h1 align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=World+Discovery&weight=900&pause=1000&center=true&width=439&height=54&lines=%F0%9F%91%8B+Hello+There!+I'm+Umut" alt="Typing SVG" />
 </a>
   

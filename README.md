@@ -18,8 +18,3 @@
 <h2 align="center">
  <a href="https://discord.com/users/586566689781448725"><img src="https://lanyard.kyrie25.me/api/586566689781448725?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Boşver" width="45%" style="vertical-align: top;"></a>
   
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p6xgsd2w0n9387fj50bqr74w3&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=p6xgsd2w0n9387fj50bqr74w3&redirect=true)
-
-</div>

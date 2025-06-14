@@ -7,6 +7,6 @@
   </samp>
 </p>
 <div align="center">
-<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Umut0x?cardType=github&theme=dark&preferLogin=false&Ring=DDDDDD&Text=DDDDDD&Background=120303&Border=1D0505&Title=DDDDDD">
+<img width="50%"> <img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Umut0x?cardType=github&theme=dark&preferLogin=false&Ring=DDDDDD&Text=DDDDDD&Background=12030300&Title=DDDDDD&Border=DD272700">
 
 </div>

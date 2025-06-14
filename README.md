@@ -1,18 +1,12 @@
-<h1 align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=World+Discovery&weight=900&pause=1000&center=true&width=439&height=54&lines=%F0%9F%91%8B+Hello+There!+I'm+Umut" alt="Typing SVG" />
-</a>
-  
-</h1>
-  
 <p align="center">
- <a align="center" href="https://discord.com/users/586566689781448725" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white&border-radius: 5px;"></a>
-  <a align="center" href="https://www.github.com/Umut0x" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white&border-radius: 5px;"></a>
-  <a align="center" href="https://open.spotify.com/user/p6xgsd2w0n9387fj50bqr74w3?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white&border-radius: 5px;"></a>
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
+ <br><br>
+  <samp>
+    Hi there, I'm  Umut <br>
+    Trying to learn new things. <br>
+  </samp>
+</p>
+<div align="center">
+<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Umut0x?cardType=github&theme=dark&preferLogin=false&Ring=DDDDDD&Text=DDDDDD&Background=120303&Border=1D0505&Title=DDDDDD">
 
-
-  
-</h1>
-
-</h1>
-
-  
+</div>
